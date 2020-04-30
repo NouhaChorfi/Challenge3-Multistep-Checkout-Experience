@@ -1,0 +1,24 @@
+{
+  "name": "challenge3-multistep-checkout-experience",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NouhaChorfi/Challenge3-Multistep-Checkout-Experience.git"
+  },
+  "author": "Nouha Chorfi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NouhaChorfi/Challenge3-Multistep-Checkout-Experience/issues"
+  },
+  "homepage": "https://github.com/NouhaChorfi/Challenge3-Multistep-Checkout-Experience#readme"
+}
